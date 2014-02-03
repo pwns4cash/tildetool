@@ -1,7 +1,6 @@
-Tilde~Tool - IIS shortname enumeration tool
+TildeTool - IIS shortname enumeration tool
 =================================================
-By Damien King 
-Damien.King@KPMG.co.uk
+By Damien.King@KPMG.co.uk 
 (c) KPMG LLP
 
 *Please let me know if you find this tool useful*
